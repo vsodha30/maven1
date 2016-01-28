@@ -21,7 +21,6 @@ file using the any browser you like.
 then cd into maven1/target/classes.......
 and execute command like below:-
 maven1/target/classes$ java com.mavenfundamentals.simplejavaproject.App
-
 .........................
 5) If you wanna go simple way then execute jar file like:-
 cd into maven1/target then execute below command from terminal 
